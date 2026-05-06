@@ -1,0 +1,63 @@
+body{
+font-family: 'Roboto',Arial, sans-serif;
+    font-weight: 400;
+    color: #434455;
+    line-height: 1.3;
+    letter-spacing: 2%;
+    background-color: #FFFFFF;
+    font-size: 16px;
+   
+    
+}
+ul,ol{
+  list-style-type: none; 
+}
+
+
+h1,h2,h3,h4,h5,h6,
+.bold-text {
+    font-family: 'Raleway', sans-serif;  
+    font-weight: 700;
+    color: #2E2F42;
+}
+.section-text{
+    text-indent: 24px;
+}
+.section-title{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+        color: inherit;
+        cursor: pointer;
+       
+}
+a:hover, a:focus {
+    text-decoration: none;
+    color: #2E2F42;
+    cursor: pointer;
+    font-weight: 700;
+}
+.section-one{
+    background-color: #2E2F42;
+    text-align: center;
+    
+}
+.section-one>h1{
+color: #FFFFFF;
+}
+.section-one>button{
+    background-color: #4D5AE5;
+    color: white;
+    border:0px;
+}
+.section-one>button:hover,button:focus {
+    background-color: #1a2280;
+        color: white;
+        border: 1px;
+        cursor: pointer;
+}
+.section-team{
+    background-color: #F4F4FD;
+}
