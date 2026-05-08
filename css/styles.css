@@ -1,6 +1,5 @@
 body{
 font-family: 'Roboto',Arial, sans-serif;
-    font-weight: 500;
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.002em;
@@ -22,9 +21,9 @@ h2{
         color: #2E2F42;
 }
 h3 {
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 0.002em;
-    line-height: 1.5;
+    line-height: 1.2;
     font-weight: 500;
     color: #2E2F42;
 }
@@ -49,8 +48,6 @@ header{
 }
 .navbar ul li a{
         font-weight: 500;
-        width: 153px;
-        height: 24px;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.003em;
@@ -63,8 +60,6 @@ header{
     font-weight: 700;
 }
 .address ul li a {
-        width: 153px;
-        height: 24px;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing:0.003em;
@@ -85,7 +80,7 @@ a:focus {
 .section-one>h1{
     font-size: 56px;
         letter-spacing: 0.002em;
-        line-height: 375%;
+        line-height: 1.75;
         font-weight: 700;
         color: #FFFFFF;
 }
@@ -120,13 +115,11 @@ span{
     color:#4D5AE5;
 }
 .logo{
+    font-family: 'Raleway',Arial,sans-serif;
     font-weight: 700;
-    width: 115px;
-    height: 24px;
     font-size:18px;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.003em;
-    color:#2E2F42;
     
 }
 .footer{
